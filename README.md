@@ -41,12 +41,11 @@ NEON Music Player is a Python desktop music player with an AI-powered music genr
 
    `python main.py`
 
+
 ## Music Collection
 
-The full music collection is distributed separately because of its large file size.
+The song collection is hosted separately on Google Drive because of its large file size.
 
-A download link will be provided here.
+[Open the NEON Music Player Song Collection](https://drive.google.com/drive/folders/1aQAROHX87JygB-sorYcUr6dLhcTnGiL9?usp=sharing)
 
-## License
-
-Contact the project owner for permission before redistributing this project or its assets.
+The collection is separate from the Windows application download.
