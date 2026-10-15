@@ -1,0 +1,23 @@
+
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+build/
+dist/
+
+# Exclude your music collection
+PLAYLIST/
+library/
+
+# Exclude audio files everywhere
+*.mp3
+*.wav
+*.flac
+*.ogg
+*.m4a
+*.aac
+
+.DS_Store
+Thumbs.db

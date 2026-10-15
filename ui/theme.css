@@ -1,0 +1,24 @@
+
+:root {
+    color-scheme: dark;
+    --bg: #100c1e;
+    --bg-deep: #0b0815;
+    --sidebar: #0d0919;
+    --surface: #181329;
+    --surface-raised: #211a36;
+    --surface-hover: #2a2143;
+    --border: rgba(197, 174, 255, 0.12);
+    --border-strong: rgba(197, 174, 255, 0.22);
+    --text: #f7f3ff;
+    --text-secondary: #b4abc9;
+    --muted: #807694;
+    --purple: #a78bfa;
+    --purple-bright: #bba2ff;
+    --pink: #f472b6;
+    --blue: #7dd3fc;
+    --green: #86efac;
+    --radius: 14px;
+    --radius-small: 9px;
+    --sidebar-width: 240px;
+    --player-height: 96px;
+}
