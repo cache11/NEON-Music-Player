@@ -1,7 +1,13 @@
 
 # NEON Music Player
 
-NEON Music Player is a Python desktop music player with an AI-powered music genre classification feature.
+NEON Music Player is a Python desktop music player with an AI-powered music genre classification feature
+
+
+## Download for Windows
+
+[Download NEON Music Player v1.0.0](https://github.com/cache11/NEON-Music-Player/releases/tag/v1.0.0)
+
 
 ## Features
 
